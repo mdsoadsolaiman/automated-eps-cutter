@@ -12,7 +12,14 @@ An engineering portfolio documenting the structured design, development, and phy
 | Design development | Complete CAD assembly render |
 | Decision methods | Weighted material and manufacturing-process selection |
 | Physical evidence | Constructed prototype and finished EPS lettering |
-| Recognition | Second Place, IEOM Undergraduate Student Paper Competition |
+
+## Award
+
+### Second Place — IEOM Undergraduate Student Paper Competition
+
+This project received **Second Place** in the **IEOM Undergraduate Student Paper Competition** at the **7th Bangladesh Conference on Industrial Engineering and Operations Management**.
+
+[View the award certificate](award/ieom-undergraduate-paper-award-certificate.pdf).
 
 ## Engineering Challenge
 
@@ -99,7 +106,6 @@ The documented material decisions include aluminium for the body frame and nichr
 - Constructed a physical prototype
 - Demonstrated a finished EPS lettering output
 - Documented the work through an associated conference publication
-- Received Second Place in the IEOM Undergraduate Student Paper Competition
 
 ## Engineering Evidence
 
@@ -111,13 +117,11 @@ The documented material decisions include aluminium for the body frame and nichr
 - Prototype and finished-output photographs
 - Prototype demonstration video
 - Original team product-design report
-- Award certificate
 - Research bibliography
 
 ## Documentation
 
 - [Original team product-design report](documentation/eps-cutter-product-design-report.pdf) — redistribution rights remain under review
-- [IEOM award certificate](documentation/ieom-undergraduate-paper-award-certificate.pdf)
 - [Research references](publication/research-references.md)
 
 ## Publication
@@ -135,16 +139,6 @@ The associated research examined how operating conditions affect the performance
 The publisher-formatted conference paper is not distributed in this repository.
 
 Additional publication context is available in [`publication/CITATION.md`](publication/CITATION.md).
-
-## Award
-
-**Second Place**
-
-IEOM Undergraduate Student Paper Competition
-
-7th Bangladesh Conference on Industrial Engineering and Operations Management
-
-[View the award certificate](documentation/ieom-undergraduate-paper-award-certificate.pdf).
 
 ## Repository Structure
 
@@ -165,9 +159,10 @@ automated-eps-cutter/
 │   │       └── eps-lettering-output.jpeg
 │   └── videos/
 │       └── eps-cutter-prototype-demonstration.mp4
-├── documentation/
-│   ├── eps-cutter-product-design-report.pdf
+├── award/
 │   └── ieom-undergraduate-paper-award-certificate.pdf
+├── documentation/
+│   └── eps-cutter-product-design-report.pdf
 └── publication/
     ├── CITATION.md
     └── research-references.md
