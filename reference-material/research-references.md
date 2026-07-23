@@ -1,235 +1,39 @@
 # Research References
 
-The following publications were reviewed during the literature and technical research phase of the Automated EPS Cutter project. Full-text copies are not included in this public repository. Where available, DOI or publisher links are provided for access through the original source.
+[1] A. Abeysinghe, S. Abeysiriwardena, R. Nanayakkarawasam, W. Wimalsiri, T. D. Lalitharatne, and S. Tennakoon, "Development of a Numerically Controlled Hot Wire Foam Cutting Machine for Wing Mould Construction," in Proceedings of the 2016 Moratuwa Engineering Research Conference (MERCon), 2016, pp. 60–65, doi: 10.1109/MERCon.2016.7480116.
 
-## A thermo-electro-mechanical simulation model for hot wire cutting of EPS foam
+[2] D. Aitchison, H. Brooks, J. Bain, and D. Pons, "AN INVESTIGATION INTO THE PREDICTION OF OPTIMAL MACHINING CONDITIONS FOR POLYSTYRENE FOAM CUT WITH A TAUT HOT-WIRE," The Annals of “Dunărea de Jos” University of Galați, Fascicle V, Technologies in Machine Building, pp. 19–24, 2009.
 
-**Authors:** Kiril P. Petkov, Jesper H. Hattel
+[3] M. A. Aslam, A. Nadeem, M. U. Ali, M. B. Khan, and B. Ashfaq, "Design and Fabrication of PVC Pipe Cutting Machine with Hot Wire Mechanism," MATEC Web of Conferences, vol. 398, Art. no. 01019, 2024, doi: 10.1051/matecconf/202439801019.
 
-**Year:** 2016
+[4] S. K. Dhinesh, K. L. Senthil Kumar, K. S. Prasad, M. Raghunath, S. Madheshwaran, A. P. Gokulraj, and M. Saravanan, "Design And Fabrication Of Arduino Controlled Cnc Foam Cutting Machine," International Journal of Aquatic Science, vol. 12, no. 3, pp. 1545–1557, 2021.
 
-**DOI or publisher link:** https://doi.org/10.1016/j.ijmachtools.2016.05.002
+[5] S. Duenser, R. Poranne, B. Thomaszewski, and S. Coros, "RoboCut: Hot-wire Cutting with Robot-controlled Flexible Rods," ACM Transactions on Graphics, vol. 39, no. 4, Art. no. 98, Jul. 2020, doi: 10.1145/3386569.3392465.
 
-**Relevance to this project:** The paper models wire temperature, kerf width, stress and displacement during hot-wire cutting of EPS foam.
+[6] F. Fahrizal, M. F. Aslam, N. Anwar, I. Isminarti, and A. Fitriati, "Design of Styrofoam Cutting Machine Based on CNC 2 Axis Using Hot Wire," Journal of Computer Engineering, Electronics and Information Technology (COELITE), vol. 1, no. 2, pp. 63–74, 2022, doi: 10.17509/coelite.v1i2.51617.
 
----
+[7] G. Figliolini, P. Rea, and C. Cocomello, "Mechatronic Design and Prototype of a 4-DOFs Hot-Wire CNC Cutting Machine," in Advances in Service and Industrial Robotics, C. Ferraresi and G. Quaglia, Eds. Cham, Switzerland: Springer International Publishing, 2018, vol. 49, pp. 591–598, doi: 10.1007/978-3-319-61276-8_62.
 
-## AN INVESTIGATION INTO THE PREDICTION OF OPTIMAL MACHINING CONDITIONS FOR POLYSTYRENE FOAM CUT WITH A TAUT HOT-WIRE
+[8] N. Karmakar, H. Chetikena, M. Venkateshwaran, and S. Subbiah, "Direct Wire-Tension Measurement Based Bowing Correction in Hot Wire Cutting of Polystyrene," Procedia Manufacturing, vol. 48, pp. 230–236, 2020, doi: 10.1016/j.promfg.2020.05.042.
 
-**Authors:** David Aitchison, Hadley Brooks, Joe Bain, Dirk Pons
+[9] N. Karmakar and S. Subbiah, "Investigating Bowing of Hot Wire during cutting of EPS," Procedia Manufacturing, vol. 26, pp. 671–680, 2018, doi: 10.1016/j.promfg.2018.07.078.
 
-**Year:** 2009
+[10] S. Memon, I. H. Kalwar, A. H. Memon, M. Shakir, H. Mustafa, and S. ur Rehman, "Hot wire thermopol cutting using CNC machine," Mehran University Research Journal of Engineering and Technology, vol. 42, no. 4, pp. 19–27, 2023, doi: 10.22581/muet1982.2304.2658.
 
-**DOI or publisher link:** Not verified
+[11] I. Q. Mohammed and A. H. Kadhum, "Optimization the Parameters of Hotwire Cutting Process to Enhance the Properties of Polystyrene Foam," Innovative Systems Design and Engineering, vol. 10, no. 5, pp. 1–16, 2019, doi: 10.7176/ISDE/10-5-01.
 
-**Relevance to this project:** The paper examines feed force, wire temperature and kerf width to predict suitable automated hot-wire cutting conditions for EPS and XPS foam.
+[12] I. Q. Mohammed and A. H. Kadhum, "Optimizing the Parameters of Hot-wire CNC Machine to Enhance the Cutting of Plastic Foam," Al-Khwarizmi Engineering Journal, vol. 15, no. 3, pp. 29–37, 2019, doi: 10.22153/kej.2019.01.006.
 
----
+[13] A. P. Ninawe, V. Khadilkar, M. Muzammil, N. Mankar, Y. Tiwari, A. Thakre, and P. Bawankar, "Design and Approach of CNC Foam Cutter," International Journal of Analytical, Experimental and Finite Element Analysis, vol. 8, no. 2, pp. 43–47, 2021, doi: 10.26706/ijaefea.2.8.20210601.
 
-## ARDUINO BASED CNC MACHINE
+[14] A. P. Ninawe, V. Khadilkar, M. Muzammil, N. Mankar, Y. Tiwari, A. Thakre, and P. Bawankar, "Design and Development of CNC Foam Cutter," International Journal of Analytical, Experimental and Finite Element Analysis, vol. 8, no. 3, pp. 76–81, 2021, doi: 10.26706/ijaefea.3.8.20210702.
 
-**Authors:** Harsh B. Panchal, Mayur S. Vaja, Priyanka D. Patel, Uday N. Padia
+[15] H. B. Panchal, M. S. Vaja, P. D. Patel, and U. N. Padia, "ARDUINO BASED CNC MACHINE," International Journal of Research in Science & Engineering, Special Issue 7-ICEMTE, pp. 80–83, Mar. 2017.
 
-**Year:** 2017
+[16] K. P. Petkov and J. H. Hattel, "A thermo-electro-mechanical simulation model for hot wire cutting of EPS foam," International Journal of Machine Tools and Manufacture, vol. 107, pp. 50–59, 2016, doi: 10.1016/j.ijmachtools.2016.05.002.
 
-**DOI or publisher link:** Not verified
+[17] K. P. Petkov and J. H. Hattel, "Hot-blade cutting of EPS foam for double-curved surfaces—numerical simulation and experiments," The International Journal of Advanced Manufacturing Technology, vol. 93, pp. 4253–4264, 2017, doi: 10.1007/s00170-017-0807-y.
 
-**Relevance to this project:** The paper describes a low-cost Arduino-controlled CNC machine intended to machine materials including foam.
+[18] H. S. B. Rochardjo and B. G. Sakanegara, "Development of Styrofoam Cutter NC Machine for Intricate Cutting Path," in Proceedings of the 2017 7th International Annual Engineering Seminar (InAES), Yogyakarta, Indonesia, 2017.
 
----
-
-## Design and Approach of CNC Foam Cutter
-
-**Authors:** A. P. Ninawe, Vijeet Khadilkar, Mohammed Muzammil, Nihal Mankar, Yash Tiwari, Ankit Thakre, Pranay Bawankar
-
-**Year:** 2021
-
-**DOI or publisher link:** https://doi.org/10.26706/ijaefea.2.8.20210601
-
-**Relevance to this project:** The paper presents a CNC hot-wire foam-cutter design approach for producing foam shapes used in UAV development.
-
----
-
-## Design and Development of CNC Foam Cutter
-
-**Authors:** Abhinav P. Ninawe, Vijeet Khadilkar, Mohammed Muzammil, Nihal Mankar, Yash Tiwari, Ankit Thakre, Pranay Bawankar
-
-**Year:** 2021
-
-**DOI or publisher link:** https://doi.org/10.26706/ijaefea.3.8.20210702
-
-**Relevance to this project:** The paper describes development of a computer-controlled hot-wire foam cutter and investigation of cutting parameters affecting cut quality.
-
----
-
-## Design and development wire cutter CNC for Styrofoam product
-
-**Authors:** Syahriza, U Aulia, L Muspika
-
-**Year:** 2020
-
-**DOI or publisher link:** https://doi.org/10.1088/1757-899X/931/1/012004
-
-**Relevance to this project:** The paper describes a two-axis CNC wire cutter using an Arduino controller, G-code and heated nickel wire for Styrofoam cutting.
-
-Duplicate source files were identified during repository cleanup.
-
----
-
-## Design And Fabrication Of Arduino Controlled Cnc Foam Cutting Machine
-
-**Authors:** S. K. Dhinesh, K. L. Senthil Kumar, K. S. Prasad, M. Raghunath, S. Madheshwaran, A. P. Gokulraj, Saravanan M
-
-**Year:** 2021
-
-**DOI or publisher link:** Not verified
-
-**Relevance to this project:** The paper discusses an Arduino-controlled CNC foam cutter using heated nickel-chromium wire and considers cutting speed, wire temperature and kerf width.
-
----
-
-## Design and Fabrication of PVC Pipe Cutting Machine with Hot Wire Mechanism
-
-**Authors:** Muhammad Arbab Aslam, Azka Nadeem, M. Usman Ali, Muhammad Bilal Khan, Babar Ashfaq
-
-**Year:** 2024
-
-**DOI or publisher link:** https://doi.org/10.1051/matecconf/202439801019
-
-**Relevance to this project:** The paper presents a machine-design approach for a cutting mechanism that replaces a conventional cutter with heated nickel-chromium wire.
-
----
-
-## Design of Styrofoam Cutting Machine Based on CNC 2 Axis Using Hot Wire
-
-**Authors:** F. Fahrizal, Muhammad Fikriatul Aslam, Nurhikmah Anwar, I. Isminarti, Andi Fitriati
-
-**Year:** 2022
-
-**DOI or publisher link:** https://doi.org/10.17509/coelite.v1i2.51617
-
-**Relevance to this project:** The paper reports the design and manufacture of a programmable two-axis CNC Styrofoam cutting machine using a temperature-controlled hot wire.
-
----
-
-## Development of a Numerically Controlled Hot Wire Foam Cutting Machine for Wing Mould Construction
-
-**Authors:** Asith Abeysinghe, Shameera Abeysiriwardena, Roshan Nanayakkarawasam, Walallawita Wimalsiri, Thilina Dulantha Lalitharatne, Salinda Tennakoon
-
-**Year:** 2016
-
-**DOI or publisher link:** https://doi.org/10.1109/MERCon.2016.7480116
-
-**Relevance to this project:** The paper investigates cutting-parameter relationships for a numerically controlled hot-wire machine intended to produce foam wing moulds.
-
----
-
-## Development of Styrofoam Cutter NC Machine for Intricate Cutting Path
-
-**Authors:** Heru SB Rochardjo, Bagus Gentur Sakanegara
-
-**Year:** 2017
-
-**DOI or publisher link:** Not verified
-
-**Relevance to this project:** The paper describes an NC machine with stepper-driven axes and heated nickel wire for cutting intricate two-dimensional paths in Styrofoam.
-
----
-
-## Direct Wire-Tension Measurement Based Bowing Correction in Hot Wire Cutting of Polystyrene
-
-**Authors:** Namrata Karmakar, Harish Chetikena, Venkateshwaran M, Sathyan Subbiah
-
-**Year:** 2020
-
-**DOI or publisher link:** https://doi.org/10.1016/j.promfg.2020.05.042
-
-**Relevance to this project:** The paper uses direct wire-tension measurement and closed-loop current control to correct wire bowing during hot-wire cutting of polystyrene.
-
----
-
-## Hot-blade cutting of EPS foam for double-curved surfaces—numerical simulation and experiments
-
-**Authors:** Kiril P. Petkov, Jesper H. Hattel
-
-**Year:** 2017
-
-**DOI or publisher link:** https://doi.org/10.1007/s00170-017-0807-y
-
-**Relevance to this project:** The paper combines experiments and thermo-electro-mechanical simulation to study hot-blade cutting and kerf width in EPS foam.
-
----
-
-## Hot wire thermopol cutting using CNC machine
-
-**Authors:** Shahzor Memon, Imtiaz Hussain Kalwar, Abdul Hameed Memon, Muhammad Shakir, Halar Mustafa, Sadiq ur Rehman
-
-**Year:** 2023
-
-**DOI or publisher link:** https://doi.org/10.22581/muet1982.2304.2658
-
-**Relevance to this project:** The paper examines wire temperature, current regulation and material selection in a microcontroller-based CNC hot-wire machine for cutting thermopol and foam.
-
-Duplicate source files were identified during repository cleanup.
-
----
-
-## Investigating Bowing of Hot Wire during cutting of EPS
-
-**Authors:** Namrata Karmakar, Sathyan Subbiah
-
-**Year:** 2018
-
-**DOI or publisher link:** https://doi.org/10.1016/j.promfg.2018.07.078
-
-**Relevance to this project:** The paper investigates how cutting current and feed rate contribute to hot-wire bowing and dimensional accuracy when cutting EPS.
-
----
-
-## Mechatronic Design and Prototype of a 4-DOFs Hot-Wire CNC Cutting Machine
-
-**Authors:** Giorgio Figliolini, Pierluigi Rea, Carlo Cocomello
-
-**Year:** 2018
-
-**DOI or publisher link:** https://doi.org/10.1007/978-3-319-61276-8_62
-
-**Relevance to this project:** The paper presents the mechatronic design and prototype of a four-degree-of-freedom CNC hot-wire cutting machine with CAD-CAM control.
-
----
-
-## Optimization the Parameters of Hotwire Cutting Process to Enhance the Properties of Polystyrene Foam
-
-**Authors:** Israa Qassim Mohammed, Ali Husain Kadhum
-
-**Year:** 2019
-
-**DOI or publisher link:** https://doi.org/10.7176/ISDE/10-5-01
-
-**Relevance to this project:** The paper applies experimental design and analysis of variance to hot-wire temperature, diameter, cutting velocity and foam density.
-
----
-
-## Optimizing the Parameters of Hot-wire CNC Machine to Enhance the Cutting of Plastic Foam
-
-**Authors:** Israa Q. Mohammed, Ali H. Kadhum
-
-**Year:** 2019
-
-**DOI or publisher link:** https://doi.org/10.22153/kej.2019.01.006
-
-**Relevance to this project:** The paper uses Taguchi experiments to examine how wire temperature, wire diameter, cutting velocity and foam density affect hot-wire foam cutting.
-
----
-
-## RoboCut: Hot-wire Cutting with Robot-controlled Flexible Rods
-
-**Authors:** Simon Duenser, Roi Poranne, Bernhard Thomaszewski, Stelian Coros
-
-**Year:** 2020
-
-**DOI or publisher link:** https://doi.org/10.1145/3386569.3392465
-
-**Relevance to this project:** The paper presents a robotic hot-wire cutting framework that models and controls flexible-tool deformation while planning cuts through foam.
-
----
+[19] Syahriza, U. Aulia, and L. Muspika, "Design and development wire cutter CNC for Styrofoam product," IOP Conference Series: Materials Science and Engineering, vol. 931, Art. no. 012004, 2020, doi: 10.1088/1757-899X/931/1/012004.
