@@ -102,9 +102,9 @@ The project included analysis of fixed cost, variable cost, unit-related cost, s
 
 ## Supporting Research
 
-The `reference-material/research-papers/` directory contains academic papers reviewed during the project's literature and technical research.
+The project was informed by academic literature on CNC foam cutting, hot-wire behaviour, EPS machining, cutting parameters and machine design. To keep this public repository lightweight and respect publication access conditions, the full-text papers are not included.
 
-[Browse the supporting research papers](reference-material/research-papers/)
+[Browse the research bibliography](reference-material/research-references.md)
 
 ## Team
 
@@ -143,11 +143,10 @@ automated-eps-cutter/
 │   └── prototype-demonstration.mp4
 └── reference-material/
     ├── cutting-mechanisms-reference.png
-    └── research-papers/
-        └── supporting research papers
+    └── research-references.md
 ```
 
-The `reference-material/` directory contains a supporting literature-review illustration and the academic papers reviewed during the project's research.
+The `reference-material/` directory contains a supporting literature-review illustration and a bibliography of the academic publications reviewed during the project's research.
 
 ## Important Note
 
