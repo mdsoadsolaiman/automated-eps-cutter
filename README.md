@@ -2,7 +2,9 @@
 
 This university Product Design project focused on designing and prototyping a low-cost CNC hot-wire machine for cutting expanded polystyrene (EPS) foam. The work combined structured engineering design methods with the construction of a physical prototype.
 
-![CAD assembly render of the automated EPS cutter](images/eps-cutter-cad-assembly.png)
+![Finished EPS lettering produced using the automated cutter](images/eps-cutter-finished-output.jpeg)
+
+*Finished EPS lettering produced during prototype demonstration, with the automated cutting machine visible in the background.*
 
 ## Project Overview
 
@@ -92,6 +94,12 @@ The project included analysis of fixed cost, variable cost, unit-related cost, s
 - Physical prototyping
 - Engineering teamwork
 
+## Supporting Research
+
+The `reference-material/research-papers/` directory contains academic papers reviewed during the project's literature and technical research.
+
+[Browse the supporting research papers](reference-material/research-papers/)
+
 ## Team
 
 This was a group university project completed by students from the Department of Industrial and Production Engineering at the Military Institute of Science and Technology.
@@ -121,16 +129,19 @@ automated-eps-cutter/
 │   ├── black-box-diagram.jpg
 │   ├── component-hierarchy.png
 │   ├── eps-cutter-cad-assembly.png
+│   ├── eps-cutter-finished-output.jpeg
 │   ├── eps-cutter-prototype.jpeg
 │   ├── functional-structure.jpg
 │   └── house-of-quality.png
 ├── media/
 │   └── prototype-demonstration.mp4
 └── reference-material/
-    └── cutting-mechanisms-reference.png
+    ├── cutting-mechanisms-reference.png
+    └── research-papers/
+        └── supporting research papers
 ```
 
-The `reference-material/` directory contains a supporting literature-review illustration retained separately from the project's original diagrams.
+The `reference-material/` directory contains a supporting literature-review illustration and the academic papers reviewed during the project's research.
 
 ## Important Note
 
