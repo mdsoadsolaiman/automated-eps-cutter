@@ -29,7 +29,7 @@ A physical prototype was constructed as part of the project. It demonstrates the
 
 The completed prototype was used to produce custom EPS lettering using the hot-wire cutting mechanism. The photograph below shows one example of the finished EPS cut produced during prototype testing.
 
-![Example of EPS lettering produced using the developed prototype](images/eps-cutting-samples.jpeg)
+![Example of EPS lettering produced using the developed prototype](images/eps-cutter-finished-output.jpeg)
 
 *Example of EPS lettering produced using the developed prototype.*
 
@@ -137,7 +137,6 @@ automated-eps-cutter/
 │   ├── eps-cutter-cad-assembly.png
 │   ├── eps-cutter-finished-output.jpeg
 │   ├── eps-cutter-prototype.jpeg
-│   ├── eps-cutting-samples.jpeg
 │   ├── functional-structure.jpg
 │   └── house-of-quality.png
 ├── media/
