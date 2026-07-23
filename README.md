@@ -59,9 +59,7 @@ Quality Function Deployment was used to translate customer requirements into tec
 
 *Functional structure — communicates how energy conversion, design-data processing, movement and material cutting interact within the proposed system.*
 
-### CAD and Design Development
-
-![CAD assembly render showing the proposed machine architecture](images/eps-cutter-cad-assembly.png)
+## CAD and Design Development
 
 The CAD assembly render communicates the proposed machine architecture and component arrangement. It provides a consolidated view of the frame, movement system, work area and cutting-wire arrangement used during design development.
 
@@ -112,12 +110,12 @@ This was a group university project completed by students from the Department of
 
 Team members:
 
+- Md. Soad Solaiman
 - Abdullah Al Jubair
 - Ibrahim Kholil
 - Md. Arifur Rahman
 - Md. Rakibul Hassan
 - Md. Sakibul Islam Sakib
-- Md. Soad Solaiman
 
 **Role: Team Lead — Md. Soad Solaiman**
 
