@@ -1,0 +1,26 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Office temporary and lock files
+~$*
+*.tmp
+
+# Backup and autosave files
+*.bak
+*.autosave
+*.autosave.*
+*.swp
+*.swo
+
+# Local development and agent folders
+.agents/
+.vscode/
+.idea/
+
+# Python cache, if scripts are later added
+__pycache__/
+*.py[cod]
+.venv/
+venv/

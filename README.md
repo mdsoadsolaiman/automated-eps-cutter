@@ -1,116 +1,186 @@
-# Automated EPS Cutter
+# Automated CNC Hot-Wire EPS Cutter
 
-This university Product Design project focused on designing and prototyping a low-cost CNC hot-wire machine for cutting expanded polystyrene (EPS) foam. The work combined structured engineering design methods with the construction of a physical prototype.
+An engineering portfolio documenting the structured design, development, and physical prototyping of a low-cost automated hot-wire machine for cutting expanded polystyrene (EPS).
 
-![CAD assembly render of the automated EPS cutter](images/eps-cutter-cad-assembly.png)
+## Portfolio Highlights
 
-## Project Overview
+| Engineering area | Evidence |
+| --- | --- |
+| Product concept | CNC hot-wire EPS cutting system |
+| Customer requirements | Quality Function Deployment and House of Quality |
+| System design | Functional decomposition and component architecture |
+| Design development | Complete CAD assembly render |
+| Decision methods | Weighted material and manufacturing-process selection |
+| Physical evidence | Constructed prototype and finished EPS lettering |
+| Recognition | Second Place, IEOM Undergraduate Student Paper Competition |
 
-Manual foam cutting can require considerable skill and effort to produce accurate, intricate shapes. This project proposed an automated hot-wire cutter intended to make the process more affordable, accurate and efficient while reducing manual effort.
+## Engineering Challenge
 
-The project covered both product-design methodology and physical prototyping. It progressed from customer research and technical-requirement development through functional analysis, CAD communication, material and manufacturing-process selection, cost analysis and prototype construction.
+Manual foam cutting can require considerable skill and effort to achieve repeatable, intricate shapes. The project explored a CNC-based hot-wire approach intended to improve automation, cutting consistency, safety, and ease of operation while maintaining a low-cost design objective.
 
-## Key Project Objectives
+## Engineering Workflow
 
-- Develop a low-cost automated approach to cutting EPS foam with a hot wire.
-- Support intricate cutting through a CNC-based process.
-- Improve cutting accuracy and reduce the manual effort associated with foam cutting.
-- Consider affordability, safety, usability, durability, weight and energy use during design development.
-- Apply structured product-design methods to material, process and cost decisions.
-- Construct a physical prototype to communicate and evaluate the design concept.
+1. Identify and prioritise user needs.
+2. Translate customer requirements into technical characteristics through Quality Function Deployment.
+3. Decompose the product into functional and component architectures.
+4. Develop the machine arrangement and complete assembly in CAD.
+5. Select materials and manufacturing processes using weighted decision methods.
+6. Construct a physical prototype and demonstrate a finished EPS cutting output.
 
-## Prototype
+<p align="center">
+  <img src="assets/images/design/house-of-quality.png" width="560" alt="House of Quality for the automated EPS cutter">
+</p>
+<p align="center"><em>Quality Function Deployment connected customer priorities with engineering design characteristics.</em></p>
 
-![Physical prototype of the automated EPS cutter](images/eps-cutter-prototype.jpeg)
+## System Architecture
 
-A physical prototype was constructed as part of the project. It demonstrates the implementation of the proposed cutter architecture without implying performance values that were not experimentally verified in the available project material.
+The design was decomposed into energy, material, and information flows. The diagrams define the system boundary and show how the body, movement, energy-conversion, CAD-to-CAM, control, and cutting functions interact.
 
-## Operational Demonstration
+<p align="center">
+  <img src="assets/images/design/system-black-box-diagram.jpg" width="620" alt="Black-box diagram showing energy, material, and information flows through the EPS cutter">
+</p>
+<p align="center"><em>The black-box model defines the principal system inputs, transformation, and outputs.</em></p>
 
-The completed prototype was used to produce custom EPS lettering using the hot-wire cutting mechanism. The photograph below shows one example of the finished EPS cut produced during prototype testing.
+<p align="center">
+  <img src="assets/images/design/component-hierarchy.png" width="560" alt="Component hierarchy for the automated EPS cutter">
+</p>
+<p align="center"><em>The component hierarchy groups the major machine subsystems and their supporting elements.</em></p>
 
-![Example of EPS lettering produced using the developed prototype](images/eps-cutter-finished-output.jpeg)
+<p align="center">
+  <img src="assets/images/design/functional-structure-diagram.jpg" width="560" alt="Functional structure connecting the EPS cutter subsystems">
+</p>
+<p align="center"><em>The functional structure connects energy conversion, control, movement, and material cutting.</em></p>
 
-*Example of EPS lettering produced using the developed prototype.*
+## CAD Assembly
 
-## Engineering Design Process
+The CAD assembly communicates the proposed frame, movement arrangement, work area, and hot-wire cutting configuration. It served as the primary design model before construction of the physical prototype.
 
-### Customer Needs Analysis
+<p align="center">
+  <img src="assets/images/design/eps-cutter-cad-assembly.png" width="700" alt="CAD assembly of the automated CNC hot-wire EPS cutter">
+</p>
+<p align="center"><em>Complete CAD assembly of the automated EPS cutter concept.</em></p>
 
-The team conducted a survey of 49 people using online forms, face-to-face interviews and phone interviews. The identified customer requirements included environmental consideration, time saving, safe operation, reasonable price, ease of use, durability, accuracy, low weight and power saving. These findings informed subsequent design priorities.
+## Physical Prototype and Cutting Output
 
-### Quality Function Deployment
+A physical prototype was constructed to demonstrate the proposed machine architecture. The finished-output photograph records EPS lettering produced using the prototype.
 
-![House of Quality used for the automated EPS cutter](images/house-of-quality.png)
+<p align="center">
+  <img src="assets/images/prototype/eps-lettering-output.jpeg" width="460" alt="EPS lettering produced using the physical hot-wire cutter prototype">
+</p>
+<p align="center"><em>Finished EPS lettering produced during prototype operation.</em></p>
 
-Quality Function Deployment was used to translate customer requirements into technical characteristics. The House of Quality related user priorities to considerations such as material properties and cost, cutting speed, energy supply, ergonomic design, efficiency, dimensions, parts availability and cutting-wire selection.
+Supporting evidence:
 
-### Functional Decomposition
+- [Physical prototype photograph](assets/images/prototype/eps-cutter-physical-prototype.jpeg) — pending final consent and privacy review
+- [Prototype demonstration video](assets/videos/eps-cutter-prototype-demonstration.mp4) — pending final privacy and audio review
 
-![Black-box diagram showing system inputs and outputs](images/black-box-diagram.jpg)
+The video is linked as supporting evidence and does not play automatically.
 
-*Black-box diagram — identifies the system's energy, material and information inputs and its corresponding outputs.*
+## Engineering Methods
 
-![Component hierarchy of the automated EPS cutter](images/component-hierarchy.png)
-
-*Component hierarchy — groups the proposed machine into body, movement, energy-conversion and CAD-to-CAM functions and their supporting components.*
-
-![Functional structure of the automated EPS cutter](images/functional-structure.jpg)
-
-*Functional structure — communicates how energy conversion, design-data processing, movement and material cutting interact within the proposed system.*
-
-## CAD and Design Development
-
-![CAD assembly render of the automated EPS cutter](images/eps-cutter-cad-assembly.png)
-
-The CAD model was developed to communicate the overall machine architecture, frame configuration, movement mechanism, work area and hot-wire cutting arrangement before prototype construction. It served as the primary engineering design communication tool for reviewing component placement, assembly layout and overall system integration throughout the product development process.
-
-### Material Selection
-
-The project used digital-logic and weighted-average methods to compare alternatives against selected criteria. The documented decisions included aluminium for the body frame and nichrome wire for the cutting element.
-
-### Manufacturing Process Selection
-
-Manufacturing-process selection was approached systematically by comparing alternatives for body-frame production, temporary and permanent joining, finishing and colouring. The analysis used weighted criteria to support process choices rather than relying only on informal preference.
-
-### Cost and Break-Even Analysis
-
-The project included analysis of fixed cost, variable cost, unit-related cost, selling price and break-even quantity. Exact figures are not reproduced here because this portfolio summary does not independently validate the assumptions and internal consistency of the original academic calculations.
-
-## Demonstration
-
-[Watch the prototype demonstration](media/prototype-demonstration.mp4)
-
-## Project Deliverables
-
-- [Product design report](docs/product-design-report.pdf)
-- [Product design presentation](docs/product-design-presentation.pptx)
-
-## Skills Demonstrated
-
-- Product design
-- Customer-needs analysis
+- Customer-needs analysis and prioritisation
 - Quality Function Deployment
 - Functional decomposition
+- Component architecture
 - CAD-based design communication
-- Material selection
-- Manufacturing-process selection
-- Cost analysis
-- Break-even analysis
+- Weighted material selection
+- Weighted manufacturing-process selection
 - Physical prototyping
-- Engineering teamwork
+- Team-based engineering development
 
-## Supporting Research
+The documented material decisions include aluminium for the body frame and nichrome wire for the cutting element. The manufacturing study considered body-frame production, joining, finishing, and colouring alternatives.
 
-The project was informed by academic literature on CNC foam cutting, hot-wire behaviour, EPS machining, cutting parameters and machine design. To keep this public repository lightweight and respect publication access conditions, the full-text papers are not included.
+## Project Outcomes
 
-[Browse the research bibliography](reference-material/research-references.md)
+- Developed a structured system architecture for the automated cutter concept
+- Translated customer requirements into engineering characteristics
+- Produced a complete CAD assembly
+- Selected materials and manufacturing processes through comparative methods
+- Constructed a physical prototype
+- Demonstrated a finished EPS lettering output
+- Documented the work through an associated conference publication
+- Received Second Place in the IEOM Undergraduate Student Paper Competition
 
-## Team
+## Engineering Evidence
 
-This was a group university project completed by students from the Department of Industrial and Production Engineering at the Military Institute of Science and Technology.
+- Original CAD render
+- System black-box diagram
+- Component hierarchy
+- Functional structure
+- House of Quality
+- Prototype and finished-output photographs
+- Prototype demonstration video
+- Original team product-design report
+- Award certificate
+- Research bibliography
 
-Team members:
+## Documentation
+
+- [Original team product-design report](documentation/eps-cutter-product-design-report.pdf) — redistribution rights remain under review
+- [IEOM award certificate](documentation/ieom-undergraduate-paper-award-certificate.pdf)
+- [Research references](publication/research-references.md)
+
+## Publication
+
+**Paper:** Effect of Cutting Parameters on Performance of CNC Hot Wire Styrofoam Cutting Machine
+
+**Conference:** 7th Bangladesh Conference on Industrial Engineering and Operations Management (IEOM)
+
+**Year:** 2024
+
+**DOI:** [10.46254/BA07.20240050](https://doi.org/10.46254/BA07.20240050)
+
+The associated research examined how operating conditions affect the performance of a CNC hot-wire EPS cutting process. The work combined development of a low-cost machine concept with structured experimentation on the nichrome-wire cutting system. Current supply, wire-temperature behaviour, cutting time, kerf, surface condition, and wire stability were considered when comparing operating points. CAD modelling and functional decomposition established the machine architecture, while the physical prototype provided the platform for experimental observation. The analysis sought a practical balance between sufficient thermal energy for cutting and the adverse effects of excessive heating, including surface distortion and wire instability. Rather than treating speed as the only objective, the study considered cut quality and process consistency alongside operating time. This repository presents the underlying engineering workflow, original diagrams, CAD render, prototype evidence, and finished cutting output. Publication details are included for attribution, while the repository remains focused on the engineering work itself.
+
+The publisher-formatted conference paper is not distributed in this repository.
+
+Additional publication context is available in [`publication/CITATION.md`](publication/CITATION.md).
+
+## Award
+
+**Second Place**
+
+IEOM Undergraduate Student Paper Competition
+
+7th Bangladesh Conference on Industrial Engineering and Operations Management
+
+[View the award certificate](documentation/ieom-undergraduate-paper-award-certificate.pdf).
+
+## Repository Structure
+
+```text
+automated-eps-cutter/
+├── README.md
+├── .gitignore
+├── assets/
+│   ├── images/
+│   │   ├── design/
+│   │   │   ├── component-hierarchy.png
+│   │   │   ├── eps-cutter-cad-assembly.png
+│   │   │   ├── functional-structure-diagram.jpg
+│   │   │   ├── house-of-quality.png
+│   │   │   └── system-black-box-diagram.jpg
+│   │   └── prototype/
+│   │       ├── eps-cutter-physical-prototype.jpeg
+│   │       └── eps-lettering-output.jpeg
+│   └── videos/
+│       └── eps-cutter-prototype-demonstration.mp4
+├── documentation/
+│   ├── eps-cutter-product-design-report.pdf
+│   └── ieom-undergraduate-paper-award-certificate.pdf
+└── publication/
+    ├── CITATION.md
+    └── research-references.md
+```
+
+## Limitations
+
+- Exact cutting accuracy, machine dimensions, and detailed operating specifications were not independently verified from the available public evidence.
+- The academic report retains its original project context and remains subject to final redistribution-rights review.
+- The prototype photograph and demonstration video remain subject to final consent and privacy review.
+- Cost and break-even values from the original academic work are not reproduced as validated portfolio claims.
+
+## Project Team
 
 - Md. Soad Solaiman
 - Abdullah Al Jubair
@@ -119,46 +189,8 @@ Team members:
 - Md. Rakibul Hassan
 - Md. Sakibul Islam Sakib
 
-**Role: Team Lead — Md. Soad Solaiman**
+This collaborative university project was completed by students from the Department of Industrial and Production Engineering at the Military Institute of Science and Technology.
 
-The design, analysis and prototype were outcomes of the group's collaborative work; they are not presented as the work of one individual.
+## Citation
 
-## Repository Structure
-
-```text
-automated-eps-cutter/
-├── README.md
-├── docs/
-│   ├── product-design-report.pdf
-│   └── product-design-presentation.pptx
-├── images/
-│   ├── black-box-diagram.jpg
-│   ├── component-hierarchy.png
-│   ├── eps-cutter-cad-assembly.png
-│   ├── eps-cutter-finished-output.jpeg
-│   ├── eps-cutter-prototype.jpeg
-│   ├── functional-structure.jpg
-│   └── house-of-quality.png
-├── media/
-│   └── prototype-demonstration.mp4
-└── reference-material/
-    ├── cutting-mechanisms-reference.png
-    └── research-references.md
-```
-
-The `reference-material/` directory contains a supporting literature-review illustration and a bibliography of the academic publications reviewed during the project's research.
-
-## Important Note
-
-This repository presents an academic group project. The included report and presentation retain their original academic context, including the terminology, analysis and attribution used in the submitted project materials.
-
-## Scope and Limitations
-
-The following details were intentionally omitted because they were unsupported, uncertain or insufficiently validated in the available project materials:
-
-- Exact cutting performance and accuracy
-- Dimensions and detailed specifications
-- Unverified software and hardware implementation claims
-- Exact cost and break-even figures
-- Commercial validation or industry-readiness claims
-- Claims assigning the entire group project to one person
+Use the publication title, conference, year, and DOI recorded in [`publication/CITATION.md`](publication/CITATION.md). The publisher-formatted conference paper is intentionally excluded.
