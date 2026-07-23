@@ -2,9 +2,7 @@
 
 This university Product Design project focused on designing and prototyping a low-cost CNC hot-wire machine for cutting expanded polystyrene (EPS) foam. The work combined structured engineering design methods with the construction of a physical prototype.
 
-![Finished EPS lettering produced using the automated cutter](images/eps-cutter-finished-output.jpeg)
-
-*Finished EPS lettering produced during prototype demonstration, with the automated cutting machine visible in the background.*
+![CAD assembly render of the automated EPS cutter](images/eps-cutter-cad-assembly.png)
 
 ## Project Overview
 
@@ -26,6 +24,14 @@ The project covered both product-design methodology and physical prototyping. It
 ![Physical prototype of the automated EPS cutter](images/eps-cutter-prototype.jpeg)
 
 A physical prototype was constructed as part of the project. It demonstrates the implementation of the proposed cutter architecture without implying performance values that were not experimentally verified in the available project material.
+
+## Operational Demonstration
+
+The completed prototype was used to produce custom EPS lettering using the hot-wire cutting mechanism. The photograph below shows one example of the finished EPS cut produced during prototype testing.
+
+![Example of EPS lettering produced using the developed prototype](images/eps-cutting-samples.jpeg)
+
+*Example of EPS lettering produced using the developed prototype.*
 
 ## Engineering Design Process
 
@@ -131,6 +137,7 @@ automated-eps-cutter/
 │   ├── eps-cutter-cad-assembly.png
 │   ├── eps-cutter-finished-output.jpeg
 │   ├── eps-cutter-prototype.jpeg
+│   ├── eps-cutting-samples.jpeg
 │   ├── functional-structure.jpg
 │   └── house-of-quality.png
 ├── media/
