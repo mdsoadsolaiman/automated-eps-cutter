@@ -61,7 +61,9 @@ Quality Function Deployment was used to translate customer requirements into tec
 
 ## CAD and Design Development
 
-The CAD assembly render communicates the proposed machine architecture and component arrangement. It provides a consolidated view of the frame, movement system, work area and cutting-wire arrangement used during design development.
+![CAD assembly render of the automated EPS cutter](images/eps-cutter-cad-assembly.png)
+
+The CAD model was developed to communicate the overall machine architecture, frame configuration, movement mechanism, work area and hot-wire cutting arrangement before prototype construction. It served as the primary engineering design communication tool for reviewing component placement, assembly layout and overall system integration throughout the product development process.
 
 ### Material Selection
 
