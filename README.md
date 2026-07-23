@@ -1,4 +1,4 @@
-# Ultra Low-Cost Automated EPS Cutter
+# Automated EPS Cutter
 
 This university Product Design project focused on designing and prototyping a low-cost CNC hot-wire machine for cutting expanded polystyrene (EPS) foam. The work combined structured engineering design methods with the construction of a physical prototype.
 
