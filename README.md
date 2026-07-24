@@ -1,4 +1,4 @@
-# Automated CNC Hot-Wire EPS Cutter
+# CNC Hot-Wire EPS Cutter
 
 An engineering portfolio documenting the structured design, development, and physical prototyping of a low-cost automated hot-wire machine for cutting expanded polystyrene (EPS).
 
